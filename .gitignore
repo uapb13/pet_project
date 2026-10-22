@@ -1,0 +1,22 @@
+# Секреты
+.env
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Игровые артефакты
+pyth/*.db
